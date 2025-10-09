@@ -1,0 +1,6 @@
+com/EventTracker/EventTracker/Controller/controller.class
+com/EventTracker/EventTracker/Service/userService.class
+com/EventTracker/EventTracker/EventTrackerApplication.class
+com/EventTracker/EventTracker/Repository/userRepository.class
+com/EventTracker/EventTracker/Model/model$modelBuilder.class
+com/EventTracker/EventTracker/Model/model.class
